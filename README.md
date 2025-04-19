@@ -1,12 +1,26 @@
-# React + Vite
+# Turismo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta aplicación es un e-commerce para comprar viajes. Realizado con React y Javascript.
 
-Currently, two official plugins are available:
+![image](/public/logo.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Instalación
 
-## Expanding the ESLint configuration
+1. Clone el repositorio
+2. Haga el comando `cd turismo-app` para moverse a la carpeta del proyecto
+3. Instale dependencias ejecutando `npm install`
+4. Para levantar la app en servidor local ejecute `npm run dev`
+5. Para salir del proyecto ejecute `Ctrl + C`
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Versión HOST
+
+Si desea ver el proyecto online puede ingresar al siguiente link: [Turismo App]()
+
+### Librerías utilizadas
+
+- [React](https://es.legacy.reactjs.org/docs/getting-started.html): utilizada para el proyecto en general
+- [Firebase](https://firebase.google.com/docs?hl=es-419): utilizada como base de datos
+- [React Router Dom](https://reactrouter.com/home): utilizada para la navegación por rutas
+- [React Spinners](https://www.davidhu.io/react-spinners/): utilizada para el spinner
+
+###### Desarrollado por Fabia Villarruel
