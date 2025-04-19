@@ -12,10 +12,6 @@ Esta aplicación es un e-commerce para comprar viajes. Realizado con React y Jav
 4. Para levantar la app en servidor local ejecute `npm run dev`
 5. Para salir del proyecto ejecute `Ctrl + C`
 
-### Versión HOST
-
-Si desea ver el proyecto online puede ingresar al siguiente link: [Turismo App]()
-
 ### Librerías utilizadas
 
 - [React](https://es.legacy.reactjs.org/docs/getting-started.html): utilizada para el proyecto en general
